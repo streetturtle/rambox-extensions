@@ -23,7 +23,7 @@ applycss(`
     margin-top: 10px !important;
 }
 
-/* Below is code from stylysh theme from userstyles.org by Suvorov_m:
+/* Below is code from stylish theme from userstyles.org by Suvorov_m:
    (https://userstyles.org/styles/127431/newvk-dark-theme) */
 
 body {
