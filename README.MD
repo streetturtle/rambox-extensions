@@ -5,6 +5,10 @@ Rambox's [Inject JavaScript Code](https://github.com/saenzramiro/rambox/wiki/Inj
 ## Gmail
 
  - hide ad (first one or two emails in the list) in Social and Promotions tabs
+ - improve readability of counters on the left panel:
+ 
+ ![before](./gmail1.png)
+ ![after](./gmail2.png)
 
 ## VK
 
