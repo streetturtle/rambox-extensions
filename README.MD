@@ -16,3 +16,7 @@ Rambox's [Inject JavaScript Code](https://github.com/saenzramiro/rambox/wiki/Inj
  - use [NewVK Dark Theme](https://userstyles.org/styles/127431/newvk-dark-theme).
 
 ![vk-screenshor](./rambox.png)
+
+## Outlook
+
+ - hide right panel with ad
