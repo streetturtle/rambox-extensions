@@ -7,7 +7,7 @@ function applycss(css){
  }
 applycss(`
 
-._2qPmszDwBfYpF7PO9Mn3KN{
+._2qPmszDwBfYpF7PO9Mn3KN, ._3a6SuYqdwIspGohT1zu16B{
     display:none !important;
 }
 
