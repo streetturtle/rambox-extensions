@@ -6,7 +6,7 @@ function checkUnread() {
 }
 
 function updateBadge(e) {
-	e && e >= 1 ? rambox.setUnreadCount(e) : rambox.clearUnreadCount();
+    e && e >= 1 ? rambox.setUnreadCount(e) : rambox.clearUnreadCount();
 }
 
 setInterval(checkUnread, 3000);
