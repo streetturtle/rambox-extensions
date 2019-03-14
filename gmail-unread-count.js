@@ -1,7 +1,7 @@
 function checkUnread() {
-    var e = document.getElementsByClassName("bsU");
+    var e = document.getElementsByClassName('bsU');
     var t = 0;
-    for( i = 0; i < e.length; i++ ) t += parseInt(e[i].innerHTML.trim());
+    for (i = 0; i < e.length; i++) t += parseInt(e[i].innerHTML.trim());
     updateBadge(t);
 }
 
