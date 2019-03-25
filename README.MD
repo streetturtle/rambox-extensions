@@ -33,3 +33,8 @@ Rambox's [Inject JavaScript Code](https://github.com/saenzramiro/rambox/wiki/Inj
 
 #### `outlook-unread-count.js`
 - show number of unread messages
+
+## Spike
+
+#### `spike-unread-count.js`
+- show number of unread messages
