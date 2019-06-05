@@ -1,12 +1,10 @@
 function checkUnread() {
-    var e = document.getElementsByClassName('bsU');
-    var t = 0;
-    for (i = 0; i < e.length; i++) t += parseInt(e[i].innerHTML.trim());
-    updateBadge(t);
+    var e = document.querySelector(".aim .aio").querySelector("span").querySelector("a").getAttribute("aria-label").replace(/[^0-9]/g, "");
+    updateBadge(e ? parseInt(e) : 0);
 }
 
 function updateBadge(e) {
-    e && e >= 1 ? rambox.setUnreadCount(e) : rambox.clearUnreadCount();
+    1 <= e ? rambox.setUnreadCount(e) : rambox.clearUnreadCount();
 }
 
 setInterval(checkUnread, 3000);
