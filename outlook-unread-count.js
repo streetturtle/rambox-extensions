@@ -1,12 +1,10 @@
 function checkUnread() {
-    var elem = document.querySelector('i[data-icon-name="Inbox"]+span+span>span');
-    var count = elem ? elem.innerText.split('\n')[0] : 0;
-    var t = parseInt(count);
-    updateBadge(t);
+    var e = null !== $(".ms-FocusZone [role=tree]:last i[data-icon-name=Inbox]").siblings()[1].querySelector("span span") ? $(".ms-FocusZone [role=tree]:last i[data-icon-name=Inbox]").siblings()[1].querySelector("span span").innerText : 0;
+    updateBadge("" === e ? 0 : parseInt(e));
 }
 
 function updateBadge(e) {
-    e && e >= 1 ? rambox.setUnreadCount(e) : rambox.clearUnreadCount();
+    1 <= e ? rambox.setUnreadCount(e) : rambox.clearUnreadCount();
 }
 
 setInterval(checkUnread, 3000);
