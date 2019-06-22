@@ -15,26 +15,29 @@ Rambox's [Inject JavaScript Code](https://github.com/saenzramiro/rambox/wiki/Inj
  - show number of unread messages
 
 ## VK
-
  - hide sidebar and navbar;
  - use [NewVK Dark Theme](https://userstyles.org/styles/127431/newvk-dark-theme).
 
-![vk-screenshor](./rambox.png)
+ ![vk-screenshor](./rambox.png)
 
 ## Outlook
 
 #### `outlook.js`
  - hide right panel with ad
+
 #### `outlook-noad-dark.js`
  - hide right panel with ad
  - dark theme: https://userstyles.org/styles/160323/outlook-com-dark-mode 
- 
+
  ![dark-outlook](./Selection_012.png)
 
 #### `outlook-unread-count.js`
-- show number of unread messages
+ - show number of unread messages
 
 ## Spike
 
+#### `spike-dark.js`
+ - dark theme made by [rauldipeas](https://github.com/rauldipeas)
+
 #### `spike-unread-count.js`
-- show number of unread messages
+ - show number of unread messages
