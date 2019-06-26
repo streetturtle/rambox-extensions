@@ -16,6 +16,7 @@ img {
 img.icon {filter: invert(0%)}
 #oWIP {filter: invert(100%)}
 .attachemoji {filter: invert(100%)}
+.badge  {filter: invert(100%)}
 .bubble .body .emojitext {filter: invert(100%)}
 .bubble a {filter: invert(100%)}
 .bubble div div div div {filter: invert(100%)}
