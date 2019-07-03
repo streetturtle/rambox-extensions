@@ -7,10 +7,10 @@ Rambox's [Inject JavaScript Code](https://github.com/saenzramiro/rambox/wiki/Inj
 #### `gmail.js`
  - hide ad (first one or two emails in the list) in Social and Promotions tabs
  - improve readability of counters on the left panel:
- 
+
  ![before](./gmail1.png)
  ![after](./gmail2.png)
- 
+
 #### `gmail-unread-count.js`
  - show number of unread messages
 
@@ -27,7 +27,7 @@ Rambox's [Inject JavaScript Code](https://github.com/saenzramiro/rambox/wiki/Inj
 
 #### `outlook-noad-dark.js`
  - hide right panel with ad
- - dark theme: https://userstyles.org/styles/160323/outlook-com-dark-mode 
+ - dark theme: https://userstyles.org/styles/160323/outlook-com-dark-mode
 
  ![dark-outlook](./Selection_012.png)
 
@@ -38,6 +38,7 @@ Rambox's [Inject JavaScript Code](https://github.com/saenzramiro/rambox/wiki/Inj
 
 #### `spike-dark.js`
  - dark theme made by [rauldipeas](https://github.com/rauldipeas)
+ ![spike-screenshot](./spike-dark.png)
 
 #### `spike-unread-count.js`
  - show number of unread messages
