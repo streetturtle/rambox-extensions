@@ -2,6 +2,30 @@
 
 Rambox's [Inject JavaScript Code](https://github.com/saenzramiro/rambox/wiki/Inject-JavaScript-Code) feature is very useful - injecting custom JS code allows also inject custom CSS per service which can work as ~[Stylish](https://userstyles.org/)~ [Stylus](https://github.com/openstyles/stylus) extensions. Also it can work as simple AdBlock, since you can hide `iframe`s and others elements which show ads. Here I want to collect all my custom JS code which is injected in different messengers.
 
+# Tricks
+
+## Dark panel
+
+To make the panel dark you can edit the CSS by using the Developer Tools: **Window** -> **Toggle Developer Tools**. Then choose Console and paste following JS there:
+
+```js
+document.querySelector('.x-tab-bar').style.backgroundColor='#20272D';
+document.querySelectorAll('.x-tab').forEach(function(el){el.style.backgroundColor='#40474D';});
+```
+
+First line sets the color of the bar and second of the tabs. Result will look following way:
+
+![screenshot from 2018-02-05 12-20-52](https://user-images.githubusercontent.com/9363150/35818957-5e729aae-0a6f-11e8-8a70-260516533f62.png)
+
+Note that this will work only until you close application. Every time you start it you'll need to run the above JS again (which is just: 
+ - `Ctrl` + `Shift` + `i` - open developer tools
+ - `up` - select previous command 
+ - `Enter` - run it
+ - `Ctrl` + `Shift` + `i` - close developer tools
+
+
+# Styles
+
 ## Gmail
 
 #### `gmail.js`
