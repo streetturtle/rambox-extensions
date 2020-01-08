@@ -49,7 +49,7 @@ Note that this will work only until you close application. Every time you start 
 #### `outlook-noad.js`
  - hide right panel with ad
 
-#### `outlook-noad-dark.js`
+#### `outlook-dark.js`
  - hide right panel with ad
  - dark theme: https://userstyles.org/styles/160323/outlook-com-dark-mode
 
