@@ -2,6 +2,22 @@
 
 Rambox's [Inject JavaScript Code](https://github.com/saenzramiro/rambox/wiki/Inject-JavaScript-Code) feature is very useful - injecting custom JS code allows also inject custom CSS per service which can work as ~[Stylish](https://userstyles.org/)~ [Stylus](https://github.com/openstyles/stylus) extensions. Also it can work as simple AdBlock, since you can hide `iframe`s and others elements which show ads. Here I want to collect all my custom JS code which is injected in different messengers.
 
+   * [Tricks](#tricks)
+      * [Dark panel](#dark-panel)
+   * [Styles](#styles)
+      * [Gmail](#gmail)
+         * [gmail.js](#gmailjs)
+         * [gmail-unread-count.js](#gmail-unread-countjs)
+      * [VK](#vk)
+      * [Outlook](#outlook)
+         * [outlook-noad.js](#outlook-noadjs)
+         * [outlook-dark.js](#outlook-darkjs)
+         * [outlook-unread-count.js](#outlook-unread-countjs)
+      * [Spike](#spike)
+         * [spike-dark.js](#spike-darkjs)
+         * [spike-unread-count.js](#spike-unread-countjs)
+
+
 # Tricks
 
 ## Dark panel
