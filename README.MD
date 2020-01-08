@@ -46,7 +46,7 @@ Note that this will work only until you close application. Every time you start 
 
 ## Outlook
 
-#### `outlook.js`
+#### `outlook-noad.js`
  - hide right panel with ad
 
 #### `outlook-noad-dark.js`
