@@ -8,7 +8,8 @@ function applycss(css) {
 
 applycss(`
 
-  .aKB{
+  .aKB,
+  #\:2h > div:nth-child(1){
     display:none;
   }
   .bsU{
