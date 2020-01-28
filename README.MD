@@ -9,6 +9,8 @@ Rambox's [Inject JavaScript Code](https://github.com/saenzramiro/rambox/wiki/Inj
          * [gmail.js](#gmailjs)
          * [gmail-unread-count.js](#gmail-unread-countjs)
       * [VK](#vk)
+      * [Telegram](Telegram)
+         * [telegram-vanilla-dark-aqua.js](telegram-vanilla-dark-aquajs)
       * [Outlook](#outlook)
          * [outlook-noad.js](#outlook-noadjs)
          * [outlook-dark.js](#outlook-darkjs)
@@ -59,6 +61,11 @@ Note that this will work only until you close application. Every time you start 
  - use [NewVK Dark Theme](https://userstyles.org/styles/127431/newvk-dark-theme).
 
  ![vk-screenshor](./rambox.png)
+
+## Telegram
+
+#### `telegram-vanilla-dark-aqua.js`
+ - aqua dark theme from here: [Telegram-Vanilla-Dark-Web](https://github.com/VChet/Telegram-Vanilla-Dark-Web)
 
 ## Outlook
 
