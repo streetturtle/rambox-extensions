@@ -13,6 +13,7 @@ applycss(`
 ._3_hHr3kfEhbNYRFM5YJxH9,
 ._2F6rWwLisyawGGg32JOcop,
 ._23fxOotSm5HPNB1U_ZVw4i,
+._1fti_QgAzqGWPGlqh_FSvI,
 ._1fti_QgAzqGWPGlqh_FSvI
 {
     display:none !important;
