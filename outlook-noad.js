@@ -16,7 +16,8 @@ applycss(`
 ._1fti_QgAzqGWPGlqh_FSvI,
 ._1fti_QgAzqGWPGlqh_FSvI,
 ._1elFdDtE02urszo_h9-MJw,
-._151cu27-mizfa2_45gn3Zp
+._151cu27-mizfa2_45gn3Zp,
+._2_TS1mjVqZoXWVRD0GM3re
 {
     display:none !important;
 }
