@@ -21,7 +21,10 @@ applycss(`
 .UsCOauPURwRS_x4JuG08,
 .VPtFloqixpkkqJNcOv2T,
 .O3eUZdnmMvkIwt1YXEL4,
-.pBKjVBVDRKIDHWS0A95I
+.pBKjVBVDRKIDHWS0A95I,
+.O3eUZ,
+.pBKjV,
+.VPtFl
 {
     display:none !important;
 }
