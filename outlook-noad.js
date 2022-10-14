@@ -17,7 +17,14 @@ applycss(`
 ._1fti_QgAzqGWPGlqh_FSvI,
 ._1elFdDtE02urszo_h9-MJw,
 ._151cu27-mizfa2_45gn3Zp,
-._2_TS1mjVqZoXWVRD0GM3re
+._2_TS1mjVqZoXWVRD0GM3re,
+.UsCOauPURwRS_x4JuG08,
+.VPtFloqixpkkqJNcOv2T,
+.O3eUZdnmMvkIwt1YXEL4,
+.pBKjVBVDRKIDHWS0A95I,
+.O3eUZ,
+.pBKjV,
+.VPtFl
 {
     display:none !important;
 }
