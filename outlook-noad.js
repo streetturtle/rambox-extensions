@@ -24,7 +24,12 @@ applycss(`
 .pBKjVBVDRKIDHWS0A95I,
 .O3eUZ,
 .pBKjV,
-.VPtFl
+.VPtFl,
+.gcFPF,
+.GssDD,
+.Ogqyq,
+.cJ3F3,
+.Ogt7j
 {
     display:none !important;
 }
